@@ -1,9 +1,9 @@
 # Cupcake: A simplistic game ![cupcake](cupcake2.png)
 
-1. Click on play to start.
+1. Click on play to start.  
 ![step1](step1.png)
 
-2. Drag cursor around the screen, directing the line of fire of sprinkles. 
+2. Drag cursor around the screen, directing the line of fire of sprinkles.  
 ![step2gif](step2.gif)
 
 That's it!  
